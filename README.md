@@ -23,7 +23,7 @@ User can input a series of integer and seperated by comma(,). Then you need to c
 
 Example:  
   
->Chain of numbers: 3,5,8,10,7,4
+>Chain of numbers: 3,5,8,10,7,4  
 >Result: 37
 
 --------------------------
@@ -44,5 +44,5 @@ You are given two arrays:
 When user input a english word which is included in english array, you need to find out the cooresponding chinese word in the chinese array and shows it.
 
 Example:
-> English word: Apple
+> English word: Apple  
 > Output: 蘋果
