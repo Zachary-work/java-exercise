@@ -1,3 +1,4 @@
+
 import java.util.*;
 
 public class MyClass {
@@ -26,8 +27,15 @@ public class MyClass {
     }
     
     public static boolean hasNext(){
-        System.out.println("Do you have next question?");
-        String str_next_question = new Scanner(System.in).nextLine();
+        boolean input_invalid = true;
+        String str_next_question = "";
+        while(input_invalid){
+            System.out.println("Do you have next question?");
+            str_next_question = new Scanner(System.in).nextLine();
+            if(str_next_question.equals("true") || str_next_question.equals("false")){
+                input_invalid = false;
+            }
+        }
         if(str_next_question.equals("true")){
             return true;
         }
