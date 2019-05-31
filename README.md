@@ -7,8 +7,8 @@ Simple create a sum calculator which will ask user to input 2 numbers and shows 
 
 Example:  
   
->First number: 1
->Second number: 2
+>First number: 1  
+>Second number: 2  
 >Result: 3  
 >Want to continue? true  
 >First number: 3  
