@@ -7,9 +7,10 @@ public class MyClass {
         
         while(next_question){
             cal();
-            System.out.println("Do you have next question?");
-            next_question = new Scanner(System.in).nextBoolean();
+            next_question = hasNext();
         }
+        
+        System.out.println("Thanks for using");
     }
     
     public static void cal(){
@@ -22,5 +23,14 @@ public class MyClass {
         
         int result = first_number + second_number;
         System.out.println("Sum: " + result);
+    }
+    
+    public static boolean hasNext(){
+        System.out.println("Do you have next question?");
+        String str_next_question = new Scanner(System.in).nextLine();
+        if(str_next_question.equals("true")){
+            return true;
+        }
+        return false;
     }
 }
