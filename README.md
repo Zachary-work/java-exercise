@@ -30,6 +30,7 @@ Example:
 
 ## Question: English word to Chinese word convertor
 You are given two arrays:
+
 |Chinese array|English array |
 |--|--|
 |蘋果  |Apple |
