@@ -1,4 +1,5 @@
 
+
 # java-exercise
 Exercise and answer for new java learner
 
@@ -46,3 +47,41 @@ When user input a english word which is included in english array, you need to f
 Example:
 > English word: Apple  
 > Output: 蘋果
+
+## Question: English sentence to Chinsese sentence
+
+You are given two arrays as the previous question.
+|Chinese array|English array |
+|--|--|
+|蘋果  |Apple |
+|橙  |Orange |
+|我  |I |
+|你  |You |
+|食  |eat |
+|跑  |run |
+|學校  |school |
+
+When user input a english sentence (assume all those word is included in the array), you need to convert it to chinese sentence.
+
+Example:
+> English sentence: I eat Apple
+> Output: 我食蘋果
+
+## Question: Chinese sentence to English sentence
+
+You are given two arrays as the previous question.
+|Chinese array|English array |
+|--|--|
+|蘋果  |Apple |
+|橙  |Orange |
+|我  |I |
+|你  |You |
+|食  |eat |
+|跑  |run |
+|學校  |school |
+
+When user input a chinese sentence (assume all those word is included in the array), you need to convert it to english sentence.
+
+Example:
+> Chinese sentence: 我食蘋果
+> Output: I eat Apple
