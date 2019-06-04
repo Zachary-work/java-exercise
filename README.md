@@ -85,3 +85,7 @@ When user input a chinese sentence (assume all those word is included in the arr
 Example:
 > Chinese sentence: 我食蘋果
 > Output: I eat Apple
+
+## Question: 2D array 9*9 Multiplier table
+
+Save a Mulieplier table in an 2D array
