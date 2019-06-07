@@ -89,3 +89,32 @@ Example:
 ## Question: 2D array 9*9 Multiplier table
 
 Save a Mulieplier table in an 2D array
+
+## Assignment: Math question generator:
+Math question generator will be able to generate 4 types of math question.
+- Sum
+- Subtraction
+- Mulitplication
+- Division
+
+User will be able to select how many question for each types they want, Then your application should be able to keep asking user the question until they finished all of them. After that, give them a score (0-100) for their answer.
+
+Example:
+> Number of sum questions? 3
+> Number of sub questions? 2
+> Number of mulitplication question? 1
+> Number of division question? 0
+> You have select total 6 questions to answer.
+> Question: 1+3 = ?
+> 4
+> Question: 5+15 = ?
+> 21
+> Question: 2+3 = ?
+> 5
+> Question: 8-2 = ?
+> 1
+> Question: 3-1 = ?
+> 2
+> Question: 20*3 = ?
+> 60
+> Your total score is 66.6%
