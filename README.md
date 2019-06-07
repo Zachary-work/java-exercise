@@ -104,7 +104,7 @@ Example:
 > Number of sub questions? 2  
 > Number of mulitplication question? 1  
 > Number of division question? 0  
-> You have select total 6 questions to answer.  
+> You have selected 6 questions to answer in total.  
 > Question: 1+3 = ?  
 > 4  
 > Question: 5+15 = ?  
