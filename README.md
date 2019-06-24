@@ -119,7 +119,7 @@ Example:
 > 60  
 > Your total score is 66.6%  
 
-## How long it takes for some distance
+## How long it takes for traveling some distance
 |Creature type|Speed |
 |--|--|
 |Wolf  |50km/h |
