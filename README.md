@@ -118,3 +118,18 @@ Example:
 > Question: 20*3 = ?  
 > 60  
 > Your total score is 66.6%  
+
+## How long it takes for some distance
+|--|--|
+|Wolf  |50km/h |
+|Leopard  |58km/h |
+|lion  |80km/h |
+|Human  |45km/h |
+|deer  |60km/h |
+
+Assume that all of the creature on the planet is running in constant speed, please calculate the time it take from traveling for some distance.
+
+Example:
+Creature Type: Wolf
+Distance(m): 500
+Wolf travel 500(m) in 0.5 hour(s)
