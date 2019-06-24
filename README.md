@@ -127,6 +127,7 @@ Example:
 |lion  |80km/h |
 |Human  |45km/h |
 |deer  |60km/h |
+
 Assume that all of the creatures on the planet is running in constant speed, please calculate the time it take for traveling some distance.
 
 Example:
