@@ -134,3 +134,21 @@ Example:
 Creature Type: Wolf
 Distance(m): 500
 Wolf travels 500(m) in 0.5 hour(s)
+
+## Area calculator
+Make a area calculator to calculate different 2D shape area. And different shape would require different question to ask the user to enter.
+Your calculator should be able to support the following shape:
+- Circle
+- Rectangle
+- Square
+
+Example:
+type of 2d shape: circle  
+Radius of the circle: 3  
+Circle Area: 7.068583471  
+
+Example 2:
+type of 2d shape: rectangle  
+Rectangle Length: 5  
+Rectangle Width: 4  
+Rectangle Area: 20  
