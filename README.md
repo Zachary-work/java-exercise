@@ -142,12 +142,12 @@ Your calculator should be able to support the following shape:
 - Rectangle
 - Square
 
-Example:
+Example:  
 type of 2d shape: circle  
 Radius of the circle: 3  
 Circle Area: 7.068583471  
 
-Example 2:
+Example 2:  
 type of 2d shape: rectangle  
 Rectangle Length: 5  
 Rectangle Width: 4  
