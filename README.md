@@ -136,7 +136,8 @@ Distance(m): 500
 Wolf travels 500(m) in 0.5 hour(s)
 
 ## Area calculator
-Make a area calculator to calculate different 2D shape area. And different shape would require different question to ask the user to enter.
+Make an area calculator to calculate different 2D shape area. Different shapes would require different questions for the user to answer in order to calculate the result.
+
 Your calculator should be able to support the following shape:
 - Circle
 - Rectangle
