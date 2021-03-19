@@ -4,7 +4,7 @@
 Exercise and answer for new java learner
 
 ## Question： Loop-calculator
-Simple create a sum calculator which will ask user to input 2 numbers and shows the sum of the numbers. Then ask user if he/she wants to continue calculatoing next question or not [true/false].
+Simply create a sum calculator which will ask user to input 2 numbers and shows the sum of the numbers. Then ask user if he/she wants to continue calculatoing next question or not [true/false].
 
 Example:  
   
