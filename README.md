@@ -128,7 +128,7 @@ Example:
 |Human  |45km/h |
 |deer  |60km/h |
 
-Assume that all of the creatures on the planet is running in constant speed, please calculate the time it take for traveling some distance.
+Assume that all of the creatures on the planet are running in constant speed, please calculate the time it takes for traveling some distance.
 
 Example:
 Creature Type: Wolf
